@@ -1,6 +1,6 @@
 url: https://github.com/DightEndless/dsh-browser/tree/main/packages/browser/bridge-browser
 name: DightEndless/dsh-browser#packages/browser/bridge-browser
-tarball: https://github.com/DightEndless/dsh-browser/releases/download/v0.3.3/dightendless-dsh-bridge-browser-0.3.3.tgz
+tarball: https://github.com/DightEndless/dsh-browser/releases/download/v0.3.4/dightendless-dsh-bridge-browser-0.3.4.tgz
 category: browser
 description:
   en: 'Open the extension side panel and it takes over the page you are browsing right now. On top of upstream it adds: hover, coordinate clicks, drag, batched action chains, whole-page screenshots, local file upload, image listing, and switching between several connected browsers. Pages reach the model as structured text with a numbered element list; actions wait for your approval and sensitive fields stay masked. Ships as the bridge plugin, with the extension in the same release. This project is a fork of omdsh-dev/dsh-browser: https://github.com/omdsh-dev/dsh-browser'
